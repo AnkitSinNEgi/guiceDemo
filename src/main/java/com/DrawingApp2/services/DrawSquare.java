@@ -5,7 +5,7 @@ public class DrawSquare implements DrawShape {
 	@Override
 	public void draw() 
 	{
-		System.out.println("Draw Squares !!");
+		System.out.println("Draw Happiness in codes !!");
 	}
 
 }
